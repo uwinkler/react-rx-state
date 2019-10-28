@@ -41,7 +41,7 @@
     "rxjs": "^6.5.1",
     "ts-jest": "^24.0.2",
     "typescript": "^3.4.5",
-    "utility-types": "^3.7.0"
+    "utility-types": "^3.9.0"
   },
   "gitHead": "6aab764342a0936d0de670849c6ab135dcdf265e"
 }
