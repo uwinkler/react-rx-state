@@ -36,7 +36,7 @@
     "prettier": "^1.17.0",
     "react": "^16.8.6",
     "rxjs": "^6.5.1",
-    "ts-jest": "^24.0.2",
+    "ts-jest": "^25.1.0",
     "typescript": "^3.4.5",
     "utility-types": "^3.7.0"
   },

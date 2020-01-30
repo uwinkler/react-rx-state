@@ -286,6 +286,11 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
+"@restate/core@^0.9.4":
+  version "0.9.4"
+  resolved "https://registry.yarnpkg.com/@restate/core/-/core-0.9.4.tgz#72c913d7d9dc5b8062462d7b2527e7d63e2a2130"
+  integrity sha512-yA/0nkueTp+0/mBWEA7hH6jLPUe1faL4ab1ldZg5wfRX8oCoQoVSNmX7z0EvRiCuP6oFXdSJl5jRzIdR5LZW6Q==
+
 "@types/babel__core@^7.1.0":
   version "7.1.3"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.3.tgz#e441ea7df63cd080dfcd02ab199e6d16a735fc30"
@@ -3375,10 +3380,10 @@ tr46@^1.0.1:
   dependencies:
     punycode "^2.1.0"
 
-ts-jest@^24.0.2:
-  version "24.1.0"
-  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-24.1.0.tgz#2eaa813271a2987b7e6c3fefbda196301c131734"
-  integrity sha512-HEGfrIEAZKfu1pkaxB9au17b1d9b56YZSqz5eCVE8mX68+5reOvlM93xGOzzCREIov9mdH7JBG+s0UyNAqr0tQ==
+ts-jest@^25.1.0:
+  version "25.1.0"
+  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-25.1.0.tgz#06e776c4cce8a4da8eec4945f36a5823d0c0f9ba"
+  integrity sha512-1Lf576ulKhbxX5og+tG8udVg/5cgcMLPBxp1iCqbbf6VvUK4gEsgAtzMjl8u98izhLrzKMPB0LxCBKEZ5l19Hw==
   dependencies:
     bs-logger "0.x"
     buffer-from "1.x"
