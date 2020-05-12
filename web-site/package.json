@@ -16,7 +16,7 @@
     "@types/prismjs": "^1.16.0",
     "@types/react": "16.9.17",
     "@types/react-dom": "16.9.3",
-    "@types/react-helmet": "^5.0.8",
+    "@types/react-helmet": "^6.0.0",
     "classnames": "^2.2.6",
     "gatsby": "^2.4.3",
     "gatsby-link": "^2.1.1",
